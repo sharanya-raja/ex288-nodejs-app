@@ -2,7 +2,7 @@
   "name": "nodejs-helloworld",
   "version": "1.0.0",
   "description": "vemadesj World!",
-  "main": "app.js",
+  "main": "app.js"
   "scripts": {
    "start": "node app.js"},
   "author": "Red Hat Training",
